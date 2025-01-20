@@ -13,6 +13,10 @@ body {
     margin: 0;
     border-bottom: 2px solid #ccc;
     padding: 0;
+    
+  }
+  .emoji p{
+    flex-grow: 1;
   }
   
   
@@ -23,6 +27,7 @@ body {
     padding: 1rem;
     border-radius: 8px;
   }
+
   
   .icon {
     font-size: 4rem;
